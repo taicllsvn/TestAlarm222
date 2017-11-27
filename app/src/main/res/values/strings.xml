@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ứng dụng nhắc việc</string>
+    <string name="gi">Giờ</string>
+    <string name="ch_n_gi1">Chọn Giờ Nhắc Việc</string>
+    <string name="h_n_gi">Hẹn Giờ</string>
+    <string name="t_t_b_o_th_c">TẮT BÁO THỨC</string>
+    <string name="ng_d_ng_nh_c_vi_c">ỨNG DỤNG NHẮC VIỆC</string>
+    <string name="abc">abc</string>
+    <string name="t_n_c_ng_vi_c">Tên công việc:</string>
+    <string name="nh_p_t_n_c_ng_vi_c">Nhập tên công việc</string>
+    <string name="nh_p_n_i_dung_c_ng_vi_c">Nhập nội dung công việc</string>
+    <string name="i_g_g_c">Nội dung công việc</string>
+    <string name="n_i_dung_c_ng_vi_c">Nội dung công việc :</string>
+    <string name="c_ng_vi_c_t_o">CÔNG VIỆC ĐÃ TẠO</string>
+    <string name="tr_ng_th_i_c_ng_vi_c">Trạng thái công việc</string>
+    <string name="h_y_vi_t_l_i_n_i_dung_c_ng_vi_c">Hãy viết lại nội dung công việc:</string>
+    <string name="n_i_dung_c_ng_vi_c1">Nội dung công việc?</string>
+    <string name="ho_n_th_nh">Đã hoàn thành</string>
+    <string name="ok_t_t_b_o_th_c">OK.Tắt báo thức</string>
+    <string name="ch_a_b_o_l_i_sau_5_ph_t">Thêm 5p</string>
+    <string name="b_o_th_c_n">Báo thức đã đến</string>
+</resources>
